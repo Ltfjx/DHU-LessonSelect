@@ -1,0 +1,1 @@
+请把本文本内容替换成你的token（登录教务系统后在开发者工具中寻找cookie中的JSESSIONID）
