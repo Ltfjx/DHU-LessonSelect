@@ -1,7 +1,7 @@
 # DHU-LessonSelect
 东华大学选课脚本
 
-## Archieved  
+## Archived 
 Project moved to "DLSF".
 
 ## 简单说明
