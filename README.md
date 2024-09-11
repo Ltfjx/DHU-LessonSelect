@@ -1,6 +1,9 @@
 # DHU-LessonSelect
 东华大学选课脚本
 
+## Archieved  
+Project moved to "DLSF".
+
 ## 简单说明
  - 你需要在学校内网环境下使用本脚本（VPN 或校园网）
  - 修改 py 文件名为你要选的选课编号（如 `266156.py`）
